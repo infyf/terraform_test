@@ -1,0 +1,7 @@
+
+.terraform/
+
+*.tfstate
+*.tfstate.*
+
+from_data_source.txt
